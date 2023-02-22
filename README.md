@@ -10,7 +10,7 @@
 - [Why this Framework?](#tools)
 - [Usage](#usage)
 - [Result Of Test Cases](#result)
-- [Conclution](#conclution)
+- [Conclusion](#conclusion)
 
 ## <a name="section-installation">Getting Started</a>
 
@@ -80,7 +80,7 @@ You should run this command:
 <br>Title of error: "One or more validation errors occurred.",
 <br>Error number: "The value '2147483649' is not valid."
 
-## <a name="conclution">Conclution</a>
+## <a name="conclusion">Conclusion</a>
 
 The validation in this suite only needs to insert an integer number and then check if the API is showing the correct expected result according to the behavior mentioned in beginning. 
 <br>The assertions of chai, for example, "should.equal", help us to make sure if the result that we spect in the test case is the expected result, in another case, the test will be failed.
